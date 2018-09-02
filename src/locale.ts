@@ -29,3 +29,4 @@ export { svLocale } from './chronos/i18n/sv';
 export { thLocale } from './chronos/i18n/th';
 export { trLocale } from './chronos/i18n/tr';
 export { zhCnLocale } from './chronos/i18n/zh-cn';
+export { ukLocale } from './chronos/i18n/uk';
